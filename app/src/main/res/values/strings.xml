@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Test</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="f_b_summary"><![CDATA[F&B SUMMARY]]></string>
+    <string name="f_b"><![CDATA[F&B]]></string>
+</resources>
